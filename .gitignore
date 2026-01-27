@@ -1,0 +1,4 @@
+*
+!.gitignore
+!flan-t5-small.ipynb
+!requirements-flan-t5.txt
