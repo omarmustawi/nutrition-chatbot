@@ -1,4 +1,5 @@
 *
 !.gitignore
 !flan-t5-small.ipynb
+!build-conversations.ipynb
 !requirements-flan-t5.txt
